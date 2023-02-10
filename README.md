@@ -1,1 +1,1 @@
-# Using-YOLOv5-for-NFL-Player-Tracking
+# Using Object Detection Models for NFL Player Tracking
