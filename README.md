@@ -1,4 +1,4 @@
-# Using Object Detection Models for NFL Player Tracking
+# Using YOLOv5 Object Detection Model for NFL Player Tracking
 
 
 ![image](https://user-images.githubusercontent.com/105885650/218123827-9b0d06e5-0047-4a55-a625-ac9a496cfc07.png)
