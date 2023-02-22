@@ -36,4 +36,10 @@ We would like to thank the San Francisco 49ers organization for providing access
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
+# Authors
+
+*Luxolo Kuhlane
+
+*Nicholas Stadler
+
 
