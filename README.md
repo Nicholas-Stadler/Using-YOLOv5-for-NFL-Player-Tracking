@@ -20,8 +20,11 @@ We provide pre-trained models and sample code to get started with the tracking. 
 Our tracking data can be used for various purposes such as:
 
 *Individual player tracking: Coaches and trainers can use our tracking data to monitor the performance of individual players, such as their speed, acceleration, and movement patterns on the field.
+
 *Injury prevention: The tracking data can be used to identify players who are at risk of injury due to overuse or poor movement patterns. Coaches can then take preventive measures to reduce the risk of injury.
+
 *Game analysis: The tracking data can be used to analyze the performance of the team as a whole, such as the effectiveness of different plays and strategies.
+
 *Fan engagement: Fans can use the tracking data to get a more immersive experience of the game, such as tracking their favorite player on the field.
 
 # Future Work
