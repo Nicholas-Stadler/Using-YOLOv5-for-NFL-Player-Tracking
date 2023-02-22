@@ -38,8 +38,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 # Authors
 
-*Luxolo Kuhlane
-
-*Nicholas Stadler
+_Luxolo Kuhlane & Nicholas Stadler_
 
 
